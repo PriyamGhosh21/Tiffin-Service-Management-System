@@ -1,0 +1,14 @@
+/*
+Theme Name: Hello Tiffin Service
+Theme URI: 
+Author: Priyam Ghosh
+Author URI: 
+Description: Child theme for Hello Elementor with custom features for Tiffin Services.
+Template: hello-elementor
+Version: 2.1
+*/
+
+/* Import the parent theme's styles */
+@import url("../hello-elementor/style.css");
+
+/* Add these styles to your theme's style.css or create a new CSS file and enqueue it */
